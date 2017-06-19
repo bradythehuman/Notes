@@ -1,0 +1,8 @@
+[Desktop]
+uses=programing,gaming,netflix,internet
+[Laptop]
+uses=programing,internet
+[Kindle]
+uses=books,pdfs
+[Phone]
+uses=contact,music,google

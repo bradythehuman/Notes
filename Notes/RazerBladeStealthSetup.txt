@@ -1,0 +1,10 @@
+[INSTALL]
+Firefox
+Git
+Python
+- rpy2
+PyCharm
+Dropbox
+R
+- rSalvador
+Strawbery Perl
