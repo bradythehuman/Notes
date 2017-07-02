@@ -1,0 +1,19 @@
+[Basic]
+Legendary Edition
+Unofficial Patches
+Convenient Horses
+
+[Gameplay]
+
+[Astetic]
+Seriously Dark Dungeons
+2K Textures
+FXAA Injector Mod
+Vivid Weathers
+Realistic Water Two
+Enchanced Vanilla Trees
+Unbelievable Grass Two
+Static Mesh Improvement Mods
+Windsong Character Overhaul
+
+[Quests/Areas]
