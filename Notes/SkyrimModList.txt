@@ -2,8 +2,12 @@
 Legendary Edition
 Unofficial Patches
 Convenient Horses
+SKSE
 
 [Gameplay]
+Wildcat
+TK dodge
+Dragon Preists Enhanced
 
 [Astetic]
 Seriously Dark Dungeons
@@ -15,5 +19,7 @@ Enchanced Vanilla Trees
 Unbelievable Grass Two
 Static Mesh Improvement Mods
 Windsong Character Overhaul
+Vividian Enb
 
 [Quests/Areas]
+Bruma
